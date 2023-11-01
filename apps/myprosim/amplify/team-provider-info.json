@@ -1,0 +1,25 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-myprosim-dev-174151-authRole",
+      "UnauthRoleArn": "arn:aws:iam::021813154548:role/amplify-myprosim-dev-174151-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::021813154548:role/amplify-myprosim-dev-174151-authRole",
+      "Region": "eu-west-1",
+      "DeploymentBucketName": "amplify-myprosim-dev-174151-deployment",
+      "UnauthRoleName": "amplify-myprosim-dev-174151-unauthRole",
+      "StackName": "amplify-myprosim-dev-174151",
+      "StackId": "arn:aws:cloudformation:eu-west-1:021813154548:stack/amplify-myprosim-dev-174151/78d4f540-78ff-11ee-949b-06a1e73992f3",
+      "AmplifyAppId": "dl9jc7bojoh99"
+    },
+    "categories": {
+      "auth": {
+        "myprosim3766d205": {
+          "userPoolId": "eu-west-1_7FTla2ZcK",
+          "userPoolName": "authpool",
+          "webClientId": "2nbutn4e3qv602vfi0qbsnrp4",
+          "nativeClientId": "2nbutn4e3qv602vfi0qbsnrp4"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "auth": {
+    "myprosim3766d205": {
+      "customAuth": false,
+      "dependsOn": [],
+      "providerPlugin": "awscloudformation",
+      "service": "Cognito",
+      "serviceType": "imported"
+    }
+  },
+  "parameters": {
+    "AMPLIFY_auth_myprosim3766d205_nativeClientId": {
+      "usedBy": [
+        {
+          "category": "auth",
+          "resourceName": "myprosim3766d205"
+        }
+      ]
+    },
+    "AMPLIFY_auth_myprosim3766d205_userPoolId": {
+      "usedBy": [
+        {
+          "category": "auth",
+          "resourceName": "myprosim3766d205"
+        }
+      ]
+    },
+    "AMPLIFY_auth_myprosim3766d205_userPoolName": {
+      "usedBy": [
+        {
+          "category": "auth",
+          "resourceName": "myprosim3766d205"
+        }
+      ]
+    },
+    "AMPLIFY_auth_myprosim3766d205_webClientId": {
+      "usedBy": [
+        {
+          "category": "auth",
+          "resourceName": "myprosim3766d205"
+        }
+      ]
+    }
+  }
+}
